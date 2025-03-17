@@ -1,28 +1,156 @@
-BSD 3-Clause License
+Eclipse Public License - v 2.0 (Modified with Attribution & Restricted Commercial Use Clause)
 
-Copyright (c) 2025, Software Solution Corporation
+THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE
+PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION, OR DISTRIBUTION
+OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+1. DEFINITIONS
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+"Contribution" means:
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+a) in the case of the initial Contributor, the initial content
+Distributed under this Agreement, and
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+b) in the case of each subsequent Contributor:
+i) changes to the Program, and
+ii) additions to the Program;
+where such changes and/or additions to the Program originate from
+and are Distributed by that particular Contributor. A Contribution
+"originates" from a Contributor if it was added to the Program by
+such Contributor itself or anyone acting on such Contributor's behalf.
+Contributions do not include changes or additions to the Program that
+are not Modified Works.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+"Contributor" means any person or entity that Distributes the Program.
+
+"Licensed Patents" mean patent claims licensable by a Contributor which
+are necessarily infringed by the use or sale of its Contribution alone
+or when combined with the Program.
+
+"Program" means the Contributions Distributed in accordance with this
+Agreement.
+
+"Recipient" means anyone who receives the Program under this Agreement
+or any Secondary License (as applicable), including Contributors.
+
+"Derivative Works" shall mean any work, whether in Source Code or other
+form, that is based on (or derived from) the Program and for which the
+editorial revisions, annotations, elaborations, or other modifications
+represent, as a whole, an original work of authorship.
+
+"Modified Works" shall mean any work in Source Code or other form that
+results from an addition to, deletion from, or modification of the
+contents of the Program, including, for purposes of clarity, any new file
+in Source Code form that contains any contents of the Program. Modified
+Works shall not include works that contain only declarations,
+interfaces, types, classes, structures, or files of the Program solely
+in each case in order to link to, bind by name, or subclass the Program
+or Modified Works thereof.
+
+"Distribute" means the acts of a) distributing or b) making available
+in any manner that enables the transfer of a copy.
+
+"Source Code" means the form of a Program preferred for making
+modifications, including but not limited to software source code,
+documentation source, and configuration files.
+
+"Secondary License" means either the GNU General Public License,
+Version 2.0, or any later versions of that license, including any
+exceptions or additional permissions as identified by the initial
+Contributor.
+
+2. GRANT OF RIGHTS
+
+a) Subject to the terms of this Agreement, each Contributor hereby
+grants Recipient a non-exclusive, worldwide, royalty-free copyright
+license to reproduce, prepare Derivative Works of, publicly display,
+publicly perform, Distribute and sublicense the Contribution of such
+Contributor, if any, and such Derivative Works.
+
+b) Commercial Use Restriction: Any commercial use, reproduction,
+or distribution of this Program requires clear and explicit
+credit to the original writer(s) and the company that developed
+the base core libraries. Failure to include proper attribution
+in commercial distributions constitutes a violation of this license.
+
+c) Historical Copyright Notice: This Program and its base core
+libraries were originally developed in the early 2010s. Copyright
+to the core library remains with the original authors and their
+affiliated company. All modified works must include a reference
+to this historical copyright notice.
+
+3. PUBLIC LICENSE FOR RESEARCH, EDUCATIONAL, AND NON-PROFIT USE
+
+To support academic and public knowledge advancement, this Program may
+be freely used, modified, and distributed by research institutions,
+educational organizations, and registered non-profits for non-commercial
+purposes, subject to compliance with all other terms in this Agreement.
+
+Conditions for Non-Commercial Public Use:
+
+Must include proper credit to the original authors and company.
+
+Must retain all existing copyright, attribution, and licensing notices.
+
+May not be sold, sublicensed, or used for commercial monetization without
+compliance with Section 2(b).
+
+4. COMMERCIAL DISTRIBUTION
+
+Commercial distributors of software may accept certain responsibilities
+with respect to end users, business partners, and the like. While this
+license is intended to facilitate the commercial use of the Program,
+commercial use must meet the following conditions:
+
+Mandatory Attribution:
+a) The original authors and company must be credited in all instances
+where the Program or its Derivative Works are used commercially.
+b) Proper attribution must be included in software documentation,
+"About" sections, and/or any public-facing materials where the Program
+is utilized.
+
+Indemnification Clause:
+a) Commercial users agree to indemnify and defend all other Contributors
+against any legal claims arising from their use or modification of
+the Program.
+
+Violation Consequences:
+a) Any breach of the commercial use conditions outlined in this
+license will result in the immediate revocation of all commercial
+use rights.
+
+5. NO WARRANTY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT
+PERMITTED BY APPLICABLE LAW, THE PROGRAM IS PROVIDED ON AN "AS IS"
+BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
+IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF
+TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE. Each Recipient is solely responsible for determining the
+appropriateness of using and distributing the Program and assumes all
+risks associated with its exercise of rights under this Agreement.
+
+6. GENERAL
+
+If any provision of this Agreement is invalid or unenforceable under
+applicable law, it shall not affect the validity or enforceability of
+the remainder of the terms of this Agreement.
+
+Everyone is permitted to copy and distribute copies of this Agreement,
+provided that no modifications are made to its terms except by the
+Agreement Steward.
+
+Exhibit A - Form of Secondary Licenses Notice
+
+"This Source Code may also be made available under the following
+Secondary Licenses when the conditions for such availability set forth
+in the Eclipse Public License, v. 2.0 are satisfied: {name license(s),
+version(s), and exceptions or additional permissions here}."
+
+Simply including a copy of this Agreement, including this Exhibit A,
+is not sufficient to license the Source Code under Secondary Licenses.
+
+If it is not possible or desirable to put the notice in a particular
+file, then You may include the notice in a location (such as a LICENSE
+file in a relevant directory) where a recipient would be likely to
+look for such a notice.
